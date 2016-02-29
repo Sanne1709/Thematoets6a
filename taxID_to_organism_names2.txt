@@ -1,0 +1,23 @@
+1	root
+2	Bacteria
+6	Azorhizobium
+7	Azorhizobium caulinodans
+9	Buchnera aphidicola
+10	Cellvibrio
+11	Cellulomonas gilvus
+13	Dictyoglomus
+14	Dictyoglomus thermophilum
+16	Methylophilus
+17	Methylophilus methylotrophus
+18	Pelobacter
+19	Pelobacter carbinolicus
+20	Phenylobacterium
+21	Phenylobacterium immobile
+22	Shewanella
+23	Shewanella colwelliana
+24	Shewanella putrefaciens
+25	Shewanella hanedai
+27	halophilic eubacterium NRCC 41227
+28	halophilic eubacterium
+29	Myxococcales
+31	Myxococcaceae
